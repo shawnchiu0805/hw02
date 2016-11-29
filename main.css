@@ -1,0 +1,106 @@
+blockquote {
+    color: blue;
+}
+
+h1 {
+    color: rgba(0, 0, 0, 0);
+}
+
+td[rowspan="2"] {
+       letter-spacing: 0.3em;
+    text-align: center
+    color: #fff;
+}
+
+td[colspan="2"] {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+strong {
+    color: #00f;
+    color: #f00;
+}
+p{
+    line-height: 1em;
+}
+
+/* p { color: navy } */
+
+blockquote {
+    color: #fff;
+    background-color: rgb(173, 221, 230);
+}
+
+body {
+    font-family: Microsoft JhengHei, DFKai-SB, BiauKai, arial;
+    font-size: 16px
+}
+
+h3 {
+    color: darkblue;
+    font-size: 26
+}
+
+h7{
+    font-size: 18px ; 
+    color: black;
+    font-weight: 600    
+}
+
+h8{
+    font-size: 18px ; 
+    color: red;
+    font-weight: 900    
+}
+
+.circle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:20px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000000;
+    line-height:50px;
+    text-align:center;
+    background:rgb(255, 206, 0);
+}
+
+.redcircle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:20px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#ffffff;
+    line-height:50px;
+    text-align:center;
+    background:red;
+}
+
+table{background-color: rgba(255, 242, 221, 0.54)}
+
+.inner{
+   background: navy;
+}
+.box{
+  width:60px;
+  height:60px; 
+}
+.bg1{
+ background: orangered; 
+}
+.bg2{
+ background: limegreen; 
+}
+.bg3{
+ background: dodgerblue; 
+}
+.bg4{
+ background: gold; 
+}
+
+
+/*調色盤ctrl+E*/
